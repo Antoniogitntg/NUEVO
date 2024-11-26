@@ -1,4 +1,3 @@
 # NUEVO   añado cambio
-otra modificacion
+otra modificacion (local)
 cambios en remoto
-modificacion local
