@@ -9,3 +9,4 @@ mas cambios
 
  choque
  cambio desde VSCODE
+ modificado en remoto
